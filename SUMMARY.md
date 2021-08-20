@@ -1,6 +1,7 @@
 # Summary
 
 * [이 문서에 대해](README.md)
+* [머릿말](intro/README.md)
 
 ### 2부 딥 워크를 실행하는데 네 가지 규칙
 
